@@ -7,3 +7,7 @@
 .product{
     background-image: linear-gradient(#46b99c, #b3ffec)
 }
+.budspro{
+    background: linear-gradient(to left, #ec8282,
+        #b0f8ed);
+}
